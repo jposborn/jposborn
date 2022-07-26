@@ -1,4 +1,4 @@
-### Hi, My name is John Osborn 
+### Hi, I'm John 
 
 👋
 
