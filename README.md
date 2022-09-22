@@ -6,9 +6,9 @@ I've been working within engineering and technology throughout my career, from e
 
 🌱
 
-I recently took a career / study break and I’m now fully focused on getting my first full time Python developer role. My current study is focused on the development of RESTful APIs using Django REST Framework. (see below)
+I recently took a career / study break and I’m now fully focused on getting my first full time Python developer role. My current study is focused on the development of RESTful APIs using Django REST Framework. 
 
-https://github.com/jposborn/Project-Tracking-API
+
 
 📫
 
